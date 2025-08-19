@@ -30,6 +30,10 @@ namespace MvcTemplateProject.Controllers
         {
             return View();
         }
+        public ActionResult İletisim()
+        {
+            return View();
+        }
 
 
     }

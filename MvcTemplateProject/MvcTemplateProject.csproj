@@ -88,6 +88,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\img\team\abdullah.JPG" />
+    <Content Include="assets\img\team\ada_goles.jpg" />
+    <Content Include="assets\img\team\sinan_dogan.jpeg" />
     <Content Include="Content\Site.css" />
     <Content Include="assets\favicon.ico" />
     <Content Include="assets\img\about\1.jpg" />
@@ -133,6 +136,7 @@
     <Content Include="Views\Default\Ekip.cshtml" />
     <Content Include="Views\Default\Etkinlik.cshtml" />
     <Content Include="Views\Default\Faaliyetler.cshtml" />
+    <Content Include="Views\Default\İletisim.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
