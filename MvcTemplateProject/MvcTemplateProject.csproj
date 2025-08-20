@@ -89,8 +89,16 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="assets\img\header-bg-lake-mount.jpg" />
+    <Content Include="assets\img\portfolio\akyaka_topicfotojpg.jpg" />
+    <Content Include="assets\img\portfolio\ayuctu_disfoto.jpg" />
+    <Content Include="assets\img\portfolio\ayuctu_icfoto.jpg" />
+    <Content Include="assets\img\portfolio\degirmendere_disfoto.jpg" />
+    <Content Include="assets\img\portfolio\dugerek_disfoto.jpg" />
+    <Content Include="assets\img\portfolio\dugerek_icfoto.jpg" />
+    <Content Include="assets\img\portfolio\yenikoy_icfoto.jpg" />
     <Content Include="assets\img\team\abdullah.JPG" />
     <Content Include="assets\img\team\ada_goles.jpg" />
+    <Content Include="assets\img\team\arif_kavakli.jpg" />
     <Content Include="assets\img\team\sinan_dogan.jpeg" />
     <Content Include="Content\Site.css" />
     <Content Include="assets\favicon.ico" />
