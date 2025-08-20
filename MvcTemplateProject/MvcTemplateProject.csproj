@@ -88,6 +88,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\img\header-bg-lake-mount.jpg" />
     <Content Include="assets\img\team\abdullah.JPG" />
     <Content Include="assets\img\team\ada_goles.jpg" />
     <Content Include="assets\img\team\sinan_dogan.jpeg" />
