@@ -34,6 +34,10 @@ namespace MvcTemplateProject.Controllers
         {
             return View();
         }
+        public ActionResult Anasayfa()
+        {
+            return View();
+        }
 
 
     }

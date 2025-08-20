@@ -137,6 +137,7 @@
     <Content Include="Views\Default\Etkinlik.cshtml" />
     <Content Include="Views\Default\Faaliyetler.cshtml" />
     <Content Include="Views\Default\İletisim.cshtml" />
+    <Content Include="Views\Default\Anasayfa.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
