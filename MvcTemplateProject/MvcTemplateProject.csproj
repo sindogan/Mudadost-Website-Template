@@ -88,7 +88,12 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="assets\img\about\hakkimizda_1.png" />
+    <Content Include="assets\img\about\hakkimizda_3.jpg" />
+    <Content Include="assets\img\about\hakkimizda_2.jpg" />
+    <Content Include="assets\img\about\hakkimizda_4.jpg" />
     <Content Include="assets\img\header-bg-lake-mount.jpg" />
+    <Content Include="assets\img\instagram-logo.svg" />
     <Content Include="assets\img\portfolio\akyaka_topicfotojpg.jpg" />
     <Content Include="assets\img\portfolio\ayuctu_disfoto.jpg" />
     <Content Include="assets\img\portfolio\ayuctu_icfoto.jpg" />
@@ -96,16 +101,11 @@
     <Content Include="assets\img\portfolio\dugerek_disfoto.jpg" />
     <Content Include="assets\img\portfolio\dugerek_icfoto.jpg" />
     <Content Include="assets\img\portfolio\yenikoy_icfoto.jpg" />
-    <Content Include="assets\img\team\abdullah.JPG" />
     <Content Include="assets\img\team\ada_goles.jpg" />
     <Content Include="assets\img\team\arif_kavakli.jpg" />
     <Content Include="assets\img\team\sinan_dogan.jpeg" />
     <Content Include="Content\Site.css" />
     <Content Include="assets\favicon.ico" />
-    <Content Include="assets\img\about\1.jpg" />
-    <Content Include="assets\img\about\2.jpg" />
-    <Content Include="assets\img\about\3.jpg" />
-    <Content Include="assets\img\about\4.jpg" />
     <Content Include="assets\img\close-icon.svg" />
     <Content Include="assets\img\header-bg.jpg" />
     <Content Include="assets\img\logos\facebook.svg" />
@@ -114,15 +114,6 @@
     <Content Include="assets\img\logos\microsoft.svg" />
     <Content Include="assets\img\map-image.png" />
     <Content Include="assets\img\navbar-logo.svg" />
-    <Content Include="assets\img\portfolio\1.jpg" />
-    <Content Include="assets\img\portfolio\2.jpg" />
-    <Content Include="assets\img\portfolio\3.jpg" />
-    <Content Include="assets\img\portfolio\4.jpg" />
-    <Content Include="assets\img\portfolio\5.jpg" />
-    <Content Include="assets\img\portfolio\6.jpg" />
-    <Content Include="assets\img\team\1.jpg" />
-    <Content Include="assets\img\team\2.jpg" />
-    <Content Include="assets\img\team\3.jpg" />
     <Content Include="Files\Script_Files\scripts.js" />
     <Content Include="Files\Css_Files\styles.css" />
     <Content Include="Global.asax" />
